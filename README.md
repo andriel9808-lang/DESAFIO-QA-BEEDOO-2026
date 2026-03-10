@@ -40,3 +40,25 @@ A estratégia adotada foi baseada na análise funcional da aplicação, prioriza
 Os cenários e casos de teste podem ser acessados no link abaixo:
 
 https://docs.google.com/spreadsheets/d/1tTihvypxRIUFb_mfxnVQQb-QON2wbbJFHhkPiuXUB2w/edit?usp=sharing
+
+## Evidências dos Testes
+
+As evidências da execução dos testes estão disponíveis no link abaixo:
+
+https://drive.google.com/drive/folders/1ZslnXsFCjUta_N5icoRMKj_Upmdvsb9l
+
+## Relatório de Bugs
+
+Os bugs identificados durante os testes estão documentados em:
+
+/bugs/relatorio-de-bugs.md
+
+## Uso de Inteligência Artificial
+
+Ferramentas de IA foram utilizadas como apoio durante o desafio para:
+
+- auxiliar na organização dos casos de teste;
+- revisar descrições e documentação;
+- sugerir melhorias estruturais.
+
+Todas as decisões, análises e execuções dos testes foram realizadas de forma crítica, avaliando e adaptando as sugestões fornecidas pela IA.
