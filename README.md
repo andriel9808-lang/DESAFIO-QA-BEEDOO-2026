@@ -34,3 +34,9 @@ Os pontos considerados mais críticos para validação são:
 ## Estratégia Inicial de Testes
 
 A estratégia adotada foi baseada na análise funcional da aplicação, priorizando o fluxo principal de cadastro de cursos, seguido por cenários negativos e validações de entrada de dados, considerando possíveis erros de uso por parte do usuário.
+
+## Casos de Teste
+
+Os cenários e casos de teste podem ser acessados no link abaixo:
+
+https://docs.google.com/spreadsheets/d/1tTihvypxRIUFb_mfxnVQQb-QON2wbbJFHhkPiuXUB2w/edit?usp=sharing
